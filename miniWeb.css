@@ -1,0 +1,125 @@
+.additional-resource-section {
+  background-image: url("pic/Simply-Recipes-Hersheys-Black-Magic-Cake-LEAD-7-defa64c019a446d1a8f150c0b0171732.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 350px;
+  margin: 10px auto;
+}
+body {
+  background-color: blanchedalmond;
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+.main2.section {
+}
+header {
+  padding: 15px;
+  text-align: center;
+  background: rgb(60, 28, 4);
+  color: white;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+nav {
+  padding: 20px;
+  text-align: center;
+  background: rgb(97, 48, 10);
+  color: white;
+  font-size: 30px;
+  text-emphasis-color: white;
+}
+.butt{
+background-color:transparent;
+border: none;
+text-decoration: none;
+color: white;
+font-size: 15px;
+
+
+}
+.nav-text{
+text-align: center;
+font-size: smaller;
+
+}
+.hero-section {
+  width: 90% ;
+  border: 150px;
+  padding: 50px ;
+  border: 10px;
+  margin: 10px auto;
+  color:maroon;
+  background-color: beige;
+  text-align:  center;
+  font-size: smaller;
+  
+}
+.Ingredients-section {
+  color: rgb(60, 28, 4);
+  border: 20px;
+  border:  150px;
+  width: 90% ;
+  padding: 50px ;
+  margin: 10px auto;
+
+
+  background-color:burlywood;
+}
+
+.preparation-steps-section{
+
+color: rgb(60, 28, 4);
+background-color:burlywood;
+  border: 20px;
+  border:  150px;
+  width: 90% ;
+  padding: 50px ;
+  margin: 10px auto;
+
+  
+
+
+}
+.img1{
+  background-image:  url(pic/Simply-Recipes-Hersheys-Black-Magic-Cake-LEAD-7-defa64c019a446d1a8f150c0b0171732.jpg);
+  background-repeat: no-repeat;
+  background-size:  250px 250px;
+  background-size: cover;
+  /* background-position: center bottom 40px; */
+  width: 500px;
+  height: 250px;
+
+}
+.butt-discover{
+
+
+
+  background-color:transparent;
+border: none;
+text-decoration: none;
+color: white;
+font-size: 15px;
+}
+
+.hove {
+  background-color:burlywood;;
+  padding: 5px 5px;
+  display: inline-block;
+}
+.hove:hover {
+  background-color: rgb(255, 251, 0);
+  padding: 1px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.hove {
+  background-color:burlywood;
+  padding: 5px 5px;
+  display: inline-block;
+}
+.hove:hover {
+  background-color:#c0f852;
+  padding: 1px;
+  text-decoration: underline;
+  font-weight: bold;
+}
